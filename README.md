@@ -29,7 +29,7 @@ I am passionate about coding and database management, finding joy in solving com
 ## Connect with Me
 
 - **LinkedIn:**
-  - [LinkedIn Profile]((https://www.linkedin.com/in/karl-androe-lorena-6220242a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)https://www.linkedin.com/in/karl-androe-lorena-6220242a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - [LinkedIn Profile](https://www.linkedin.com/in/karl-androe-lorena-6220242a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
 - **Email:**
   - [karl11.lorena@gmail.com](mailto:karl11.lorena@gmail.com)
